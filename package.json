@@ -1,6 +1,17 @@
 {
+  "name": "RettiwtSocialAPI",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1",
+    "express": "^4.17.1",
     "mongoose": "^6.3.6"
   }
 }
