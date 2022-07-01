@@ -1,7 +1,7 @@
 {
   "name": "RettiwtSocialAPI",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "",
   "main": "server.js",
   "scripts": {
